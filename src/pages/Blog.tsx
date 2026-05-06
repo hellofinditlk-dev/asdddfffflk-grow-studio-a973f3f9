@@ -508,6 +508,41 @@ const blogPosts = [
     date: "2026-05-05",
     keyword: "Social Media Management Sri Lanka",
   },
+  {
+    slug: "best-digital-marketing-agencies-sri-lanka",
+    title: "Best Digital Marketing Agencies in Sri Lanka (2026) — Complete Guide",
+    excerpt: "Compare the best digital marketing agencies in Sri Lanka for 2026 — services, pricing, and how to pick the right partner for your business.",
+    date: "2026-05-06",
+    keyword: "Digital Marketing Agencies Sri Lanka",
+  },
+  {
+    slug: "how-to-choose-digital-marketing-agency-sri-lanka",
+    title: "How to Choose a Digital Marketing Agency in Sri Lanka (2026)",
+    excerpt: "A step-by-step guide to choosing the right digital marketing agency in Sri Lanka — what to look for, red flags, and questions to ask.",
+    date: "2026-05-06",
+    keyword: "Digital Marketing Agency",
+  },
+  {
+    slug: "digital-marketing-cost-sri-lanka-pricing",
+    title: "Digital Marketing Costs in Sri Lanka — Complete Pricing Guide (2026)",
+    excerpt: "Complete 2026 pricing guide for digital marketing in Sri Lanka — social media, Facebook Ads, Google Ads, SEO and full-service packages.",
+    date: "2026-05-06",
+    keyword: "Digital Marketing Cost Sri Lanka",
+  },
+  {
+    slug: "what-does-digital-agency-do-sri-lanka",
+    title: "What Does a Digital Agency Actually Do? — Sri Lanka Guide (2026)",
+    excerpt: "What does a digital agency actually do? A complete guide to every service digital agencies provide and what to expect when you hire one.",
+    date: "2026-05-06",
+    keyword: "Digital Agencies",
+  },
+  {
+    slug: "digital-marketing-small-businesses-sri-lanka",
+    title: "Digital Marketing for Small Businesses in Sri Lanka — Complete Beginner's Guide (2026)",
+    excerpt: "A beginner's guide to digital marketing for small businesses in Sri Lanka — channels, budgets, priorities, and a 90-day starter plan.",
+    date: "2026-05-06",
+    keyword: "Digital Marketing Agency",
+  },
 ];
 
 const Blog = () => (
