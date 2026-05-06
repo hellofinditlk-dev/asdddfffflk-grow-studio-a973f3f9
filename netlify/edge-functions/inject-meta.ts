@@ -551,6 +551,31 @@ const META_MAP: Record<string, { title: string; description: string; h1: string 
     description: "Learn what to look for when choosing a corporate event management agency in Sri Lanka. Covers venue selection, event marketing, AV, catering coordination, and what questions to ask.",
     h1: "Corporate Event Management Sri Lanka — How to Choose the Right Agency (2026)",
   },
+  "/blog/best-digital-marketing-agencies-sri-lanka": {
+    title: "Best Digital Marketing Agencies in Sri Lanka 2026 | Complete Guide",
+    description: "Discover the best digital marketing agencies in Sri Lanka for 2026. Compare top digital agencies, services, pricing, and find the right partner to grow your business.",
+    h1: "Best Digital Marketing Agencies in Sri Lanka (2026) — Complete Guide",
+  },
+  "/blog/how-to-choose-digital-marketing-agency-sri-lanka": {
+    title: "How to Choose a Digital Marketing Agency in Sri Lanka 2026",
+    description: "Not sure how to choose the right digital marketing agency in Sri Lanka? This complete guide covers what to look for, red flags to avoid, and the right questions to ask.",
+    h1: "How to Choose a Digital Marketing Agency in Sri Lanka (2026)",
+  },
+  "/blog/digital-marketing-cost-sri-lanka-pricing": {
+    title: "Digital Marketing Costs in Sri Lanka 2026 — Complete Pricing Guide",
+    description: "How much does digital marketing cost in Sri Lanka? This complete 2026 pricing guide covers social media, Facebook Ads, Google Ads, SEO, and full-service agency packages.",
+    h1: "Digital Marketing Costs in Sri Lanka — Complete Pricing Guide (2026)",
+  },
+  "/blog/what-does-digital-agency-do-sri-lanka": {
+    title: "What Does a Digital Agency Actually Do? Sri Lanka Guide 2026",
+    description: "What does a digital agency actually do for your business? This complete guide explains every service, how digital agencies work, and what to expect when you hire one in Sri Lanka.",
+    h1: "What Does a Digital Agency Actually Do? — Sri Lanka Guide (2026)",
+  },
+  "/blog/digital-marketing-small-businesses-sri-lanka": {
+    title: "Digital Marketing for Small Businesses in Sri Lanka 2026 — Complete Guide",
+    description: "A complete beginner's guide to digital marketing for small businesses in Sri Lanka. Learn which channels to start with, how much to spend, and how to get real results fast.",
+    h1: "Digital Marketing for Small Businesses in Sri Lanka — Complete Beginner's Guide (2026)",
+  },
 };
 
 const escapeAttr = (value: string) =>
