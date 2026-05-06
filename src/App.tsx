@@ -101,6 +101,11 @@ const BlogPost69 = lazy(() => import("./pages/BlogPost69"));
 const BlogPost70 = lazy(() => import("./pages/BlogPost70"));
 const BlogPost71 = lazy(() => import("./pages/BlogPost71"));
 const BlogPost72 = lazy(() => import("./pages/BlogPost72"));
+const BlogPost73 = lazy(() => import("./pages/BlogPost73"));
+const BlogPost74 = lazy(() => import("./pages/BlogPost74"));
+const BlogPost75 = lazy(() => import("./pages/BlogPost75"));
+const BlogPost76 = lazy(() => import("./pages/BlogPost76"));
+const BlogPost77 = lazy(() => import("./pages/BlogPost77"));
 const AdvertisingInSriLanka = lazy(() => import("./pages/AdvertisingInSriLanka"));
 const IndustryPage = lazy(() => import("./pages/IndustryPage"));
 const DesignSubService = lazy(() => import("./pages/DesignSubService"));
@@ -225,6 +230,11 @@ const App = () => (
               <Route path="/blog/sinhala-vs-english-social-media-sri-lanka" element={<BlogPost70 />} />
               <Route path="/blog/tiktok-marketing-sri-lanka-2025" element={<BlogPost71 />} />
               <Route path="/blog/signs-you-need-social-media-agency-sri-lanka" element={<BlogPost72 />} />
+              <Route path="/blog/best-digital-marketing-agencies-sri-lanka" element={<BlogPost73 />} />
+              <Route path="/blog/how-to-choose-digital-marketing-agency-sri-lanka" element={<BlogPost74 />} />
+              <Route path="/blog/digital-marketing-cost-sri-lanka-pricing" element={<BlogPost75 />} />
+              <Route path="/blog/what-does-digital-agency-do-sri-lanka" element={<BlogPost76 />} />
+              <Route path="/blog/digital-marketing-small-businesses-sri-lanka" element={<BlogPost77 />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/about" element={<About />} />
               <Route path="/advertising-in-sri-lanka" element={<AdvertisingInSriLanka />} />
