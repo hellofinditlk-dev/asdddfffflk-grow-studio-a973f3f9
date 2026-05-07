@@ -362,6 +362,9 @@ const AdvertisingInSriLanka = () => {
               <p className="text-muted-foreground leading-relaxed">
                 Digital advertising is now the fastest-growing advertising channel in Sri Lanka. Online platforms allow businesses to target specific audiences based on demographics, interests, and online behavior.
               </p>
+              <p className="text-muted-foreground leading-relaxed mt-3">
+                For a full comparison, read our guide on <Link to="/blog/traditional-vs-digital-advertising-sri-lanka" className="text-primary hover:underline font-semibold">traditional vs digital advertising in Sri Lanka</Link>.
+              </p>
               <ul className="mt-3 space-y-2">
                 {["Search engine advertising", "Social media advertising", "Display advertising", "Video advertising", "Influencer marketing"].map(item => (
                   <li key={item} className="flex items-center gap-2 text-muted-foreground">
