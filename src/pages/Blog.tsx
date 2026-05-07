@@ -2,8 +2,9 @@ import { Link } from "react-router-dom";
 import SEOHead from "@/components/SEOHead";
 import PageBreadcrumb from "@/components/PageBreadcrumb";
 import mascotGlasses from "@/assets/mascot-glasses.jpeg";
+import { blogPosts } from "@/data/blog-posts";
 
-const blogPosts = [
+const _legacyBlogPosts = [
   {
     slug: "why-social-media-management-important-businesses-sri-lanka",
     title: "Why Social Media Management is Important for Businesses in Sri Lanka",
