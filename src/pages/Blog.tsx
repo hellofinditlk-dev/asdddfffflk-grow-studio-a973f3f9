@@ -250,6 +250,13 @@ const blogPosts = [
     keyword: "Advertising in Sri Lanka",
   },
   {
+    slug: "traditional-vs-digital-advertising-sri-lanka",
+    title: "Traditional vs Digital Advertising in Sri Lanka: A Complete Comparison",
+    excerpt: "Side-by-side comparison of traditional vs digital advertising in Sri Lanka — cost, targeting, ROI, measurability, and which channel wins for SMEs.",
+    date: "2026-05-07",
+    keyword: "Advertising in Sri Lanka",
+  },
+  {
     slug: "digital-marketing-cost-sri-lanka-pricing-guide",
     title: "How Much Does Digital Marketing Cost in Sri Lanka? (2026 Pricing Guide)",
     excerpt: "A complete breakdown of digital marketing prices in Sri Lanka — Facebook Ads, Google Ads, SEO, social media management, design, and video production.",
