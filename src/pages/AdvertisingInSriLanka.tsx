@@ -362,6 +362,9 @@ const AdvertisingInSriLanka = () => {
               <p className="text-muted-foreground leading-relaxed">
                 Digital advertising is now the fastest-growing advertising channel in Sri Lanka. Online platforms allow businesses to target specific audiences based on demographics, interests, and online behavior.
               </p>
+              <p className="text-muted-foreground leading-relaxed mt-3">
+                For a full comparison, read our guide on <Link to="/blog/traditional-vs-digital-advertising-sri-lanka" className="text-primary hover:underline font-semibold">traditional vs digital advertising in Sri Lanka</Link>.
+              </p>
               <ul className="mt-3 space-y-2">
                 {["Search engine advertising", "Social media advertising", "Display advertising", "Video advertising", "Influencer marketing"].map(item => (
                   <li key={item} className="flex items-center gap-2 text-muted-foreground">
@@ -496,6 +499,9 @@ const AdvertisingInSriLanka = () => {
               </div>
             ))}
           </div>
+          <p className="text-muted-foreground leading-relaxed mt-6">
+            New to search ads? Start with our <Link to="/blog/ppc-advertising-explained-sri-lankan-businesses" className="text-primary hover:underline font-semibold">PPC advertising explained</Link> guide for Sri Lankan businesses. For social campaigns, read our complete <Link to="/blog/complete-guide-facebook-ads-businesses-sri-lanka" className="text-primary hover:underline font-semibold">Facebook Ads guide for Sri Lankan businesses</Link> to set up your first campaign.
+          </p>
         </section>
 
         {/* ===== NEW: Typical Advertising Costs ===== */}
@@ -506,6 +512,9 @@ const AdvertisingInSriLanka = () => {
           </h2>
           <p className="text-muted-foreground leading-relaxed text-lg mb-8">
             Marketing budgets vary widely depending on industry competition. Here are typical cost benchmarks for Sri Lankan businesses.
+          </p>
+          <p className="text-muted-foreground leading-relaxed mb-8">
+            See our complete breakdown of <Link to="/blog/digital-marketing-cost-sri-lanka-pricing-guide" className="text-primary hover:underline font-semibold">advertising costs in Sri Lanka</Link> for detailed platform pricing.
           </p>
 
           <div className="grid md:grid-cols-2 gap-8 mb-6">
@@ -1000,6 +1009,9 @@ const AdvertisingInSriLanka = () => {
           </div>
           <p className="text-muted-foreground leading-relaxed mt-6">
             These services help businesses maximize their advertising investment and generate measurable ROI.
+          </p>
+          <p className="text-muted-foreground leading-relaxed mt-4">
+            Browse our comparison of the <Link to="/blog/best-digital-marketing-agencies-sri-lanka" className="text-primary hover:underline font-semibold">best advertising agencies in Sri Lanka</Link> to find the right partner.
           </p>
         </section>
 
